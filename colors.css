@@ -1,0 +1,30 @@
+
+/* color library */
+:root {
+  --White: #ffffff;
+  --Black: #000000;
+  --Accent-Yellow: #ffff00;
+  --Accent-Orange: #ff9f21;
+  --Accent-Green: #94f641;
+  --Accent-Pink: #e040fb;
+  --Accent-Cyan: #64ffda;
+  --Accent-Grey: #dddddd;
+  --Accent-Red-Light: #ff1744;
+  --Accent-Red-Deep: #db1111;
+  --Accent-Blue-Light: #2b91ff;
+  --Accent-Blue-Deep: #007aff;
+  --Accent-Blue-Glow50: #007aff80;
+  --Accent-Blue-Glow25: #3579f040;
+  --BaseColor-1: #0a0a0d;
+  --BaseColor-2: #16161a;
+  --BaseColor-3: #19191c;
+  --BaseColor-4: #222226;
+  --BaseColor-5: #28282e;
+  --BaseColor-6: #343438;
+  --BaseColor-7: #494a57;
+  --BaseColor-8: #696b7a;
+  --BaseColor-9: #7e8191;
+  --BaseColor-10: #aeb1bf;
+  --BaseColor-11: #d8dce5;
+  --BaseColor-12: #f0f6fc;
+}
